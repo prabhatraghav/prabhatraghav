@@ -1,3 +1,8 @@
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hello..;I'm+Prabhat+Raghav...;a+millennial+by+age...;looking+for...;a+position+in+DevOps...;and+this+is...;my+Github+Profile..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
+
 <!--- https://github.com/antonkomarev/github-profile-views-counter --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=18ff00&abbreviated=true&style=flat" alt="prabhatraghav" /> </p>
 
@@ -35,10 +40,7 @@
 
 <!---
 
-<div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
-</div>
+
 
 <div align="center">
     <h2>🚀 About Me</h2>
