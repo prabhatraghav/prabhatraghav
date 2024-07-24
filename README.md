@@ -34,9 +34,9 @@
 <table align="center" width="100%" height="100%"><tr>
 
 <!--- Coder Animated Gif --->
-<!--- <td><img align="right" alt="Coding" width="246" height="200" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/></td>  --->
+<td><img align="right" alt="Coding" width="246" height="200" style="padding-bottom: 20px; display: block; border: none;" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/></td>
 <!--- <td><img alt="Coding" width="267" height="200" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/></td> --->
-<td><img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/></td>
+<!--- <td><img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/></td>  --->
 
 <td><h4><ul>
 <li> 👋 Hi, I’m Prabhat Singh Raghav</li>
