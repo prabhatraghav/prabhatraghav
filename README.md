@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=blue&abbreviated=true&style=flat" alt="prabhatraghav"/>
 </div>
 
-<h3 align="left" class="section-heading"> 🕵 About Me</h3>
+<h3 align="left" class="section-heading"> About Me 🕵</h3>
 <div align="right"><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/main//profilegif0.gif"/></div>
 
 - 👋 Hi, I’m Prabhat Singh Raghav
