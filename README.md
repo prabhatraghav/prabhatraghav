@@ -30,9 +30,10 @@
 <h2 align="left" class="section-heading"> About Me 🕵</h2>
 </div>
 
+<!--- Coder Animated Gif --->
 <!--- <img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
-<!--- <img align="right" alt="Coding" width="350" height="263" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>  --->
-<img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/>
+<img align="right" alt="Coding" width="267" height="200" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
+<!--- <img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/>  --->
 
 - 👋 Hi, I’m Prabhat Singh Raghav
 - 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...
