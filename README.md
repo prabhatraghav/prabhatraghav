@@ -32,7 +32,7 @@
 
 <!--- <img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
 <!--- <img align="right" alt="Coding" width="350" height="263" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>  --->
-<img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif0.gif"/>
+<img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/>
 
 - 👋 Hi, I’m Prabhat Singh Raghav
 - 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...
