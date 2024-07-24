@@ -35,10 +35,10 @@
 
 <!--- Coder Animated Gif --->
 <!--- <img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
-<td><img alt="Coding" width="267" height="200" style="padding-right: 20px;" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/></td>
+<td><img alt="Coding" width="267" height="200" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/></td>
 <!--- <img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/>  --->
 
-<td><h5><ul>
+<td><h3><ul>
 <li> 👋 Hi, I’m Prabhat Singh Raghav</li>
 <li> 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...</li>
 <li> 📖 I’m currently learning DevSecOps & Cloud-DevOps...</li>
