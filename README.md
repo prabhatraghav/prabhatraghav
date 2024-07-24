@@ -2,12 +2,7 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
     </h1>
-    <!--- <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> --->
 </div>
-
-<div>
-<table align="center" width="100%" height="100%"><tr>
-<td><img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td></tr></table></div>
 
 <!-- Badges section -->
 <p align="center">
@@ -28,9 +23,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers&logoColor=white"/></a>
 </p>
 
+<!-- Banner -->
+<div><table align="center" width="100%" height="100%"><tr>
+<td><img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td>
+</tr></table></div>
 
 <div align="center">
-<h2 align="left" class="section-heading"> About Me 🕵</h2>
+<h1 align="left" class="section-heading"> About Me 🕵</h1>
 </div>
 
 <div>
@@ -54,7 +53,7 @@
 </tr></table></div>
 
 <div align="center">
-<h2 align="left" class="section-heading"> Github Stats 💻</h2>
+<h1 align="left" class="section-heading"> Github Stats 💻</h1>
 <p align="left">Peek into my GitHub stats to check out my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
@@ -74,7 +73,7 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Github Commits</h2>
+<h1 align="left" class="section-heading">🚀 Github Commits</h1>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
   <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
