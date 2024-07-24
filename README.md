@@ -31,7 +31,7 @@
 </div>
 
 <!--- <img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
-<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
+<img align="right" alt="Coding" width="380" height="285" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
 
 - 👋 Hi, I’m Prabhat Singh Raghav
 - 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...
