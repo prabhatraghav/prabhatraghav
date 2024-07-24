@@ -101,7 +101,7 @@
 
 <div align="center">
 <h1 align="left" class="section-heading">🚀 Github Contributions</h1>
-    <p>Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</p>
+<h4 align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</h4>
   <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
