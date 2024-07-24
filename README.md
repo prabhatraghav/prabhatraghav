@@ -22,7 +22,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=star&label=Github+Stars"/></a>
     <!--- Github Followers  --->
   <a href="https://github.com/prabhatraghav?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff40e6&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers&logoColor=white"/></a>
 </p>
 
 
