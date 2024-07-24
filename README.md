@@ -84,8 +84,8 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p></div>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p></div> --->
 
 <!---
 
