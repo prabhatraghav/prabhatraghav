@@ -7,7 +7,7 @@
 
 <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=18ff00&abbreviated=true&style=flat" alt="prabhatraghav"/>
+    <img src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=blue&abbreviated=true&style=flat" alt="prabhatraghav"/>
 </div>
 
 <h3 align="left" class="section-heading"> 🚀 About Me</h3>
