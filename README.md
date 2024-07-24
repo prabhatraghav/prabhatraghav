@@ -1,12 +1,15 @@
 <!--- Dynamic Header - typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
     </h1>
     <!--- <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> --->
 </div>
 
-<!-- Badges section -->
+<div>
+<table align="center" width="100%" height="100%"><tr>
+<td><img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td></tr></table></div>
 
+<!-- Badges section -->
 <p align="center">
  <!--    
   <a href="https://www.youtube.com/c/prabhatraghav?sub_confirmation=1">
