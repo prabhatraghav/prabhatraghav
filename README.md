@@ -38,7 +38,6 @@
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhatraghav&theme=github_dark&utcOffset=10" alt="Prabhat Raghav's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
     </tr>
  </table>
