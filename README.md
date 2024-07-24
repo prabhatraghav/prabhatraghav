@@ -26,8 +26,10 @@
 </p>
 
 
+<div align="center">
+<h2 align="left" class="section-heading"> About Me 🕵</h2>
+</div>
 
-<h3 align="left" class="section-heading"> About Me 🕵</h3>
 <img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/>
 
 - 👋 Hi, I’m Prabhat Singh Raghav
@@ -39,12 +41,11 @@
 - 📧 You can reach me on email - prabhat_raghav@outlook.com
 - 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a>
 
-
 <br>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to check out my digital journey!</p>
+<h2 align="left" class="section-heading"> Github Stats 💻</h2>
+<p align="left">Peek into my GitHub stats to check out my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>   
