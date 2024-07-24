@@ -38,14 +38,14 @@
 <td><img alt="Coding" width="267" height="200" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/></td>
 <!--- <img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/>  --->
 
-<td><h3><ul>
+<td><h4><ul>
 <li> 👋 Hi, I’m Prabhat Singh Raghav</li>
 <li> 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...</li>
 <li> 📖 I’m currently learning DevSecOps & Cloud-DevOps...</li>
 <li> ⚡ I'm a fast learner ...</li>
 <li> 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...</li>
 <li> 🛠️ I'm dedicated to my work 🧑🏻‍💻...</li>
-<li> 📧 You can reach me on email - prabhat_raghav@outlook.com</li>
+<li> 📧 You can reach me on email - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
 <li> 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
 </ul></h5></td>
 </tr></table></div>
