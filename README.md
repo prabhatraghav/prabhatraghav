@@ -28,7 +28,7 @@
 
 
 <h3 align="left" class="section-heading"> About Me 🕵</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/main/coding-guy.gif"/>
+<img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/>
 
 - 👋 Hi, I’m Prabhat Singh Raghav
 - 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...
