@@ -30,21 +30,25 @@
 <h2 align="left" class="section-heading"> About Me 🕵</h2>
 </div>
 
+<div>
+<table align="center" width="100%" height="100%"><tr>
+
 <!--- Coder Animated Gif --->
 <!--- <img align="right" alt="Coding" width="329" height="239" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
-<img align="left" alt="Coding" width="267" height="200" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
+<td><img alt="Coding" width="267" height="200" style="padding-right: 20px;" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/></td>
 <!--- <img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/>  --->
 
-    - 👋 Hi, I’m Prabhat Singh Raghav
-    - 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...
-    - 📖 I’m currently learning DevSecOps & Cloud-DevOps...
-    - ⚡ I'm a fast learner ...
-    - 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...
-    - 🛠️ I'm dedicated to my work 🧑🏻‍💻...
-    - 📧 You can reach me on email - prabhat_raghav@outlook.com
-    - 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a>
-
-<br>
+<td><h5><ul>
+<li> 👋 Hi, I’m Prabhat Singh Raghav</li>
+<li> 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...</li>
+<li> 📖 I’m currently learning DevSecOps & Cloud-DevOps...</li>
+<li> ⚡ I'm a fast learner ...</li>
+<li> 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...</li>
+<li> 🛠️ I'm dedicated to my work 🧑🏻‍💻...</li>
+<li> 📧 You can reach me on email - prabhat_raghav@outlook.com</li>
+<li> 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
+</ul></h5></td>
+</tr></table></div>
 
 <div align="center">
 <h2 align="left" class="section-heading"> Github Stats 💻</h2>
