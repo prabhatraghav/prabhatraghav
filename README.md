@@ -1,22 +1,27 @@
 <!--- Dynamic Header - typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hello..;I'm+Prabhat+Raghav...;And+This+is...;My+Github+Profile..;I'm+Looking+For...;A+Position+in+DevOps...;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps/Cloud+Engineer...;I'm+a+fast+learner+&+hard-working...;" alt="Typing SVG"/>
+    </h1>
     <!--- <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> --->
 </div>
 
 <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=18ff00&abbreviated=true&style=flat" alt="prabhatraghav" /> </div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=18ff00&abbreviated=true&style=flat" alt="prabhatraghav"/>
+</div>
 
-<div align="right"> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/main//profilegif0.gif"/> </div>
+<h3 align="left" class="section-heading"> 🚀 About Me</h3>
+<div align="right"><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/main//profilegif0.gif"/></div>
 
-- 👋 Hi, I’m @prabhatraghav
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning DevSecOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Prabhat Singh Raghav
+- 👀 I’m looking for a position of DevOps/Cloud Engineer ...
+- 🌱 I’m currently learning DevSecOps concepts...
+- ⚡ I'm a fast learner and hard-working ...
+- 📫 You can reach me on email - prabhat_raghav@outlook.com ...
+- 😄 My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a> ...
 
+
+<br>
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
@@ -27,7 +32,6 @@
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatraghav&theme=radical&mode=weekly&starting_year=2023" alt="Prabhat Raghav's Contribution Streak"/></td>
     </tr>
  </table>
-
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
@@ -38,6 +42,7 @@
  </table>
 </div>
 
+<br>
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
