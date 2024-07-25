@@ -34,5 +34,5 @@ jobs:
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add README.md
+        git add README.md .last_image
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with random image" && git push)
