@@ -1,13 +1,6 @@
 
 <!-- BADGES SECTION -->
-<p align="center">
- <!--    
-  <a href="https://www.youtube.com/c/prabhatraghav?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/prabhatraghav/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/prabhatraghav">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/prabhatraghav/app/youtube-stats-badges/view-count-badge.php"/></a>
-    -->
-    
+<p align="center">    
   <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
   <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=GITHUB+PROFILE+VIEWS&base=0&color=236ad3&abbreviated=true&style=for-the-badge" alt="prabhatraghav"/>
   <!--- Github Stars  --->
@@ -20,7 +13,8 @@
 
 
 
-<!--- DYNAMIC HEADER - typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
+<!--- DYNAMIC HEADER --->
+<!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
     </h1>
@@ -29,46 +23,56 @@
 
 
 <!-- BANNER -->
-<div><table align="center" width="100%" height="100%"><tr>
-<td><img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td>
-</tr></table></div>
+<div>
+ <table align="center" width="100%" height="100%">
+  <tr>
+   <td><img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td>
+  </tr>
+ </table>
+</div>
+
 
 <br>
 
+
 <!-- ABOUT ME -->
 <div align="center">
-<h2 align="left" class="section-heading">🕵 About Me </h2>
+ <h2 align="left" class="section-heading">🕵 About Me </h2>
 </div>
 
 <div id="random-image-container">
-<table align="center" width="100%" height="100%"><tr>
- <td>
-  <!--- Coder Animated Gif --->
-   <img class="random-image" alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
-   <!--- <img class="random-image" alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
-   <!--- <img class="random-image" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
- </td>
-<!--- <td><img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/></td> --->
-<!--- <td><img align="right" alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/></td> --->
-<!--- <td><img align="right" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/></td>  --->
-
-<td><h4><ul>
-<li> 👋 Hi, I’m Prabhat Singh Raghav</li>
-<li> 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...</li>
-<li> 📖 I’m currently learning DevSecOps & Cloud-DevOps...</li>
-<li> ⚡ I'm a fast learner ...</li>
-<li> 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...</li>
-<li> 🛠️ I'm dedicated to my work 🧑🏻‍💻...</li>
-<li> 📧 You can reach me on email - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
-<li> 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
-</ul></h5></td>
-</tr></table></div>
+ <table align="center" width="100%" height="100%">
+  <tr>
+   <td>
+    <!--- Coder Animated Gif --->
+    <img class="random-image" alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
+    <!--- <img class="random-image" alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
+    <!--- <img class="random-image" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
+   </td>
+   
+   <td>
+    <h4>
+     <ul>
+      <li> 👋 Hi, I’m Prabhat Singh Raghav</li>
+      <li> 👀 I’m looking for a role of ♾️DevOps/Cloud☁️ Engineer👷...</li>
+      <li> 📖 I’m currently learning DevSecOps & Cloud-DevOps...</li>
+      <li> ⚡ I'm a fast learner ...</li>
+      <li> 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...</li>
+      <li> 🛠️ I'm dedicated to my work 🧑🏻‍💻...</li>
+      <li> 📧 You can reach me on email - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
+      <li> 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
+     </ul>
+    </h5>
+   </td>
+  </tr>
+ </table>
+</div>
 
 <br>
 
 <!-- CLOUD TECHNOLOGIES -->
 <div align="center">
-<h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
+ <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
 </div>
 <p align="left">In the dynamic world of cloud computing, I had practised leading cloud platforms to architect and design cloud infrastuture solutions, here's a glance at the cloud technologies I had practised most.</p>
 <div>
@@ -84,7 +88,7 @@
 
 <!-- DEVOPS TOOLS AND SKILLS -->
 <div align="center">
-<h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
+ <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
 <p align="left">In terms of devops, the tools & technologies I had practised to integrate, build, deploy, containerize, orchestrate and monitor software applications via creating CI/CD pipelines, please have a look at the devops tools and skills I had practised alot.</p>
 <div align="center">
@@ -111,20 +115,20 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-<h2 align="left" class="section-heading">💻 Github Stats </h2>
-<p align="left">Peek into my GitHub stats to check out my digital journey!</p>
+ <h2 align="left" class="section-heading">💻 Github Stats </h2>
+ <p align="left">Peek into my GitHub stats to check out my digital journey!</p>
  <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
-    </tr>
+  <tr>
+   <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
+   <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
+  </tr>
  </table>
  <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhatraghav&theme=github_dark&utcOffset=10" alt="Prabhat Raghav's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatraghav&theme=radical&mode=weekly&starting_year=2023" alt="Prabhat Raghav's Contribution Streak"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
-    </tr>
+  <tr>
+   <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhatraghav&theme=github_dark&utcOffset=10" alt="Prabhat Raghav's GitHub Stats"/></td>
+   <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatraghav&theme=radical&mode=weekly&starting_year=2023" alt="Prabhat Raghav's Contribution Streak"/></td>
+   <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
+  </tr>
  </table>
 </div>
 
@@ -134,14 +138,22 @@
 
 <!-- GITHUB CONTRIBUTIONS -->
 <div align="center">
-<h2 align="left" class="section-heading">🚀 Github Contributions</h2>
-<p align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+ <h2 align="left" class="section-heading">🚀 Github Contributions</h2>
+ <p align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</p>
+ <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+ <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 
 <!---
+
+
+<p align="center">
+<a href="https://www.youtube.com/c/prabhatraghav?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/prabhatraghav/app/youtube-stats-badges/subscribers-badge.php"/></a>
+<a href="https://www.youtube.com/c/prabhatraghav"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/prabhatraghav/app/youtube-stats-badges/view-count-badge.php"/></a>
+</p>
+
+
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
