@@ -18,7 +18,7 @@
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+seeking+a+role...;As+a+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+able+to+quickly+adapt+to+new+technologies...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+seeking+a+role...;As+a+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+able+to+quickly+adapt+to+new+technologies...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
   </h1>
 </div>
 
@@ -65,8 +65,8 @@
       <li> ⚡ I'm a fast learner ...</li>
       <li> 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...</li>
       <li> 🛠️ I'm dedicated to my work 🧑🏻‍💻...</li>
-      <li> 📧 You can reach me on email - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
-      <li> 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
+      <li> 📧 You can reach me via email at <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
+      <li> 😄 My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
      </ul>
     </h5>
    </td>
