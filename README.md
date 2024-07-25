@@ -111,7 +111,7 @@
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/></td>
-   <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo.png" alt="prometheus" height="45"/></td>
+   <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo-white.png" alt="prometheus" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45"/></td>
   </tr>
  </table>
