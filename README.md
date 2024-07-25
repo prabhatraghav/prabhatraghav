@@ -60,11 +60,11 @@
 <div align="center">
 <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
 </div>
-<p>In the dynamic world of cloud computing, I had practised leading cloud platforms and DevOps tools & technologies to architect, integrate, build, deploy, containerize, orchestrate and monitor software applications via creating CI/CD pipelines. Here's a glance at the cloud technologies, tools and skills I practised most.</p>
+<h4 align="left">In the dynamic world of cloud computing, I had practised leading cloud platforms to architect and design cloud infrastuture solutions, here's a glance at the cloud technologies I had practised most.</h4>
 <div>
  <table>
   <tr>
-   <td><img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Git-Logo-1788C.svg" alt="git" height="30"/></td>
+   <td><img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30"/></td>
   </tr>
  </table>
 </div>
@@ -74,6 +74,7 @@
 <div align="center">
 <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
+<h4 align="left">In terms of devops, the tools & technologies I had practised to integrate, build, deploy, containerize, orchestrate and monitor software applications via creating CI/CD pipelines, please have a look at the devops tools and skills I had practised alot.</h4>
 <div align="center">
  <table>
   <tr>
