@@ -74,7 +74,7 @@
 <div align="center">
  <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
 </div>
-<p align="left">In the dynamic world of cloud computing, I had practised leading cloud platforms to architect and design cloud infrastuture solutions, here's a glance at the cloud technologies I had practised most.</p>
+<p align="left">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
 <div>
  <table>
   <tr>
@@ -90,7 +90,7 @@
 <div align="center">
  <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
-<p align="left">In terms of devops, the tools & technologies I had practised to integrate, build, deploy, containerize, orchestrate and monitor software applications via creating CI/CD pipelines, please have a look at the devops tools and skills I had practised alot.</p>
+<p align="left">Regarding my experience in DevOps, I have practiced extensively with various tools and technologies to integrate, build, deploy, containerize, orchestrate, and monitor various multi-tier software applications. I have developed and managed CI/CD pipelines using the following DevOps tools and skills:</p>
 <div align="center">
  <table>
   <tr>
