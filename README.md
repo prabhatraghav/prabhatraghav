@@ -1,4 +1,5 @@
-<!-- Badges section -->
+
+<!-- BADGES SECTION -->
 <p align="center">
  <!--    
   <a href="https://www.youtube.com/c/prabhatraghav?sub_confirmation=1">
@@ -19,7 +20,7 @@
 
 
 
-<!--- Dynamic Header - typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
+<!--- DYNAMIC HEADER - typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
     </h1>
@@ -27,11 +28,14 @@
 
 
 
-<!-- Banner -->
+<!-- BANNER -->
 <div><table align="center" width="100%" height="100%"><tr>
 <td><img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td>
 </tr></table></div>
 
+<br>
+
+<!-- ABOUT ME -->
 <div align="center">
 <h2 align="left" class="section-heading">🕵 About Me </h2>
 </div>
@@ -62,6 +66,7 @@
 
 <br>
 
+<!-- CLOUD TECHNOLOGIES -->
 <div align="center">
 <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
 </div>
@@ -75,7 +80,9 @@
 </div>
 
 
+<br>
 
+<!-- DEVOPS TOOLS AND SKILLS -->
 <div align="center">
 <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
@@ -99,9 +106,10 @@
 </div>
 
 
-
 <br>
 
+
+<!-- GITHUB STATS -->
 <div align="center">
 <h2 align="left" class="section-heading">💻 Github Stats </h2>
 <p align="left">Peek into my GitHub stats to check out my digital journey!</p>
@@ -120,8 +128,11 @@
  </table>
 </div>
 
+
 <br>
 
+
+<!-- GITHUB CONTRIBUTIONS -->
 <div align="center">
 <h2 align="left" class="section-heading">🚀 Github Contributions</h2>
 <p align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</p>
