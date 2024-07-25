@@ -74,7 +74,7 @@
 <div align="center">
 <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
-<div>
+<div align="center">
  <table>
   <tr>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Git-Logo-1788C.svg" alt="git" height="30"/></td>
@@ -84,6 +84,8 @@
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Trivy-OSS-Logo-White-Horizontal-RGB.svg" alt="aquatrivy" height="40"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Ansible-white.png" alt="ansible" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/></td>
+  </tr>
+  <tr>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo.png" alt="prometheus" height="45"/></td>
