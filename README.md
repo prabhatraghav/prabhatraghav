@@ -107,7 +107,7 @@
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins-logo-white.png" alt="jenkins" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40"/></td>
-   <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Ansible-white.png" alt="ansible" height="45"/></td>
+   <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/></td>
    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/></td>
