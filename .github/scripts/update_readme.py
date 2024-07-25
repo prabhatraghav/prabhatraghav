@@ -21,8 +21,29 @@ images = [
     }
 ]
 
-# Randomly select an image
-selected_image = random.choice(images)
+# Function to get the last selected image
+def get_last_image():
+    if os.path.exists('.last_image'):
+        with open('.last_image', 'r') as f:
+            return f.read().strip()
+    return None
+
+# Function to save the selected image
+def save_selected_image(image_url):
+    with open('.last_image', 'w') as f:
+        f.write(image_url)
+
+# Get the last selected image
+last_image = get_last_image()
+
+# Select a new image that's different from the last one
+while True:
+    selected_image = random.choice(images)
+    if selected_image['url'] != last_image:
+        break
+
+# Save the newly selected image
+save_selected_image(selected_image['url'])
 
 # Read the current README
 with open('README.md', 'r') as file:
