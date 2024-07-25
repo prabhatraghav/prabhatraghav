@@ -28,7 +28,10 @@
 <div>
  <table align="center" width="100%" height="100%">
   <tr>
-   <td><img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td>
+   <td>
+     <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner1-pipeline.gif">
+     <!--- <img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif"> --->
+   </td>
   </tr>
  </table>
 </div>
