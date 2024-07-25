@@ -18,7 +18,7 @@
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+seeking+a+role...;As+a+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+able+to+quickly+adapt+to+new+technologies...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
   </h1>
 </div>
 
@@ -28,7 +28,10 @@
 <div>
  <table align="center" width="100%" height="100%">
   <tr>
-   <td><img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/Pipeline.gif"></td>
+   <td>
+     <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif">
+     <!--- <img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif"> --->
+   </td>
   </tr>
  </table>
 </div>
@@ -47,9 +50,10 @@
   <tr>
    <td>
     <!--- Coder Animated Gif --->
-    <img class="random-image" alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
-    <!--- <img class="random-image" alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
-    <!--- <img class="random-image" alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
+    <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210">
+    <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
+    <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
+    <!--- <img alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
    </td>
    
    <td>
@@ -61,8 +65,8 @@
       <li> ⚡ I'm a fast learner ...</li>
       <li> 💪🏼 I'm very hard-working 🏋🏽‍♂️ ...</li>
       <li> 🛠️ I'm dedicated to my work 🧑🏻‍💻...</li>
-      <li> 📧 You can reach me on email - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
-      <li> 😄 My linkedin profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
+      <li> 📧 You can reach me via email at <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
+      <li> 😄 My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
      </ul>
     </h5>
    </td>
