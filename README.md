@@ -85,7 +85,7 @@
  <table>
   <tr>
     <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/aws-logo-white.png" alt="aws" height="40"/></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="40"/></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="35"/></td>
     <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/gcp-logo-white.png" alt="gcp" height="50"/></td>
   </tr>
  </table>
