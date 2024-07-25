@@ -47,7 +47,8 @@
   <tr>
    <td>
     <!--- Coder Animated Gif --->
-    <img class="random-image" alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/>
+    <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210">
+    <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
     <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
     <!--- <img alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
    </td>
