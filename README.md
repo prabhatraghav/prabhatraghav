@@ -60,7 +60,7 @@
 <div align="center">
 <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
 </div>
-<h4 align="left">In the dynamic world of cloud computing, I had practised leading cloud platforms to architect and design cloud infrastuture solutions, here's a glance at the cloud technologies I had practised most.</h4>
+<h5 align="left">In the dynamic world of cloud computing, I had practised leading cloud platforms to architect and design cloud infrastuture solutions, here's a glance at the cloud technologies I had practised most.</h5>
 <div>
  <table>
   <tr>
@@ -74,7 +74,7 @@
 <div align="center">
 <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
-<h4 align="left">In terms of devops, the tools & technologies I had practised to integrate, build, deploy, containerize, orchestrate and monitor software applications via creating CI/CD pipelines, please have a look at the devops tools and skills I had practised alot.</h4>
+<h5 align="left">In terms of devops, the tools & technologies I had practised to integrate, build, deploy, containerize, orchestrate and monitor software applications via creating CI/CD pipelines, please have a look at the devops tools and skills I had practised alot.</h5>
 <div align="center">
  <table>
   <tr>
@@ -99,7 +99,7 @@
 
 <div align="center">
 <h2 align="left" class="section-heading">💻 Github Stats </h2>
-<h4 align="left">Peek into my GitHub stats to check out my digital journey!</h4>
+<h5 align="left">Peek into my GitHub stats to check out my digital journey!</h5>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>   
@@ -119,7 +119,7 @@
 
 <div align="center">
 <h2 align="left" class="section-heading">🚀 Github Contributions</h2>
-<h4 align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</h4>
+<h5 align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</h5>
   <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
