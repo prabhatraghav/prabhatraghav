@@ -1,6 +1,6 @@
 import random
 import re
-import requests
+#import requests
 import os
 
 # Images list (as defined above)
