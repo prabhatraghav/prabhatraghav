@@ -100,42 +100,40 @@
 </div>
 <p align="justify">Regarding my experience in DevOps, I have practiced extensively with various tools and technologies to integrate, build, deploy, containerize, orchestrate, and monitor various multi-tier software applications. I have developed and managed CI/CD pipelines using the following DevOps tools and skills:</p>
 
-<div align="center">
-  <style>
-    .responsive-table {
-      width: 100%;
-      display: block;
-      overflow-x: auto;
-    }
-    .responsive-table td {
-      display: inline-block;
-      margin: 5px;
-    }
-    @media (min-width: 600px) {
-      .responsive-table {
-        display: table;
-      }
-      .responsive-table td {
-        display: table-cell;
-        margin: 0;
-      }
-    }
-  </style>
-  <table class="responsive-table">
-    <tr>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/github-white.png" alt="github" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins_logo-white.png" alt="jenkins" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo-white.png" alt="prometheus" height="45"/></td>
-      <td><img align="center" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45"/></td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/github-white.png" alt="github" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins_logo-white.png" alt="jenkins" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo-white.png" alt="prometheus" height="45"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45"/>
+  </div>
 </div>
 
 <!---
