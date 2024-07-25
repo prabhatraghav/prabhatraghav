@@ -5,10 +5,12 @@
   <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=GITHUB+PROFILE+VIEWS&base=0&color=236ad3&abbreviated=true&style=for-the-badge" alt="prabhatraghav"/>
   <!--- Github Stars  --->
   <a href="https://github.com/prabhatraghav?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=star&label=Github+Stars"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=star&label=Github+Stars"/>
+  </a>
     <!--- Github Followers  --->
   <a href="https://github.com/prabhatraghav?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -16,8 +18,8 @@
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
-    </h1>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+looking+for...;A+role+of+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
+  </h1>
 </div>
 
 
@@ -74,7 +76,7 @@
 <div align="center">
  <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
 </div>
-<p align="left">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
+<p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
 <div>
  <table>
   <tr>
@@ -90,7 +92,7 @@
 <div align="center">
  <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
 </div>
-<p align="left">Regarding my experience in DevOps, I have practiced extensively with various tools and technologies to integrate, build, deploy, containerize, orchestrate, and monitor various multi-tier software applications. I have developed and managed CI/CD pipelines using the following DevOps tools and skills:</p>
+<p align="justify">Regarding my experience in DevOps, I have practiced extensively with various tools and technologies to integrate, build, deploy, containerize, orchestrate, and monitor various multi-tier software applications. I have developed and managed CI/CD pipelines using the following DevOps tools and skills:</p>
 <div align="center">
  <table>
   <tr>
@@ -116,7 +118,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
  <h2 align="left" class="section-heading">💻 Github Stats </h2>
- <p align="left">Peek into my GitHub stats to check out my digital journey!</p>
+ <p align="justify">Peek into my GitHub stats to explore my digital journey! My GitHub profile showcases my commitment to continuous learning and my contributions to various projects.</p>
  <table align="center" width="100%" height="100%" >
   <tr>
    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatraghav&theme=github_dark" alt="Prabhat Raghav's GitHub Stats"/></td>
@@ -139,7 +141,7 @@
 <!-- GITHUB CONTRIBUTIONS -->
 <div align="center">
  <h2 align="left" class="section-heading">🚀 Github Contributions</h2>
- <p align="left">Each commit contributes to ongoing projects and reflects my commitments to continuous improvements. Dive into the commit messages for insights into what I've been up to!</p>
+ <p align="justify">Each commit I make contributes to ongoing projects and reflects my commitment to continuous improvement. By diving into my commits, you can gain insights into my thought process, problem-solving abilities, and the steps I take to enhance my projects.</p>
  <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
  <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
