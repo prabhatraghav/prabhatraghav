@@ -1,4 +1,3 @@
-
 <!-- BADGES SECTION -->
 <p align="center">    
   <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
@@ -14,14 +13,12 @@
 </p>
 
 
-
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+seeking+a+role...;As+a+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+able+to+quickly+adapt+to+new+technologies...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
   </h1>
 </div>
-
 
 
 <!-- BANNER -->
@@ -36,15 +33,12 @@
  </table>
 </div>
 
-
 <br>
-
 
 <!-- ABOUT ME -->
 <div align="center">
- <h2 align="left" class="section-heading">🕵 About Me </h2>
+ <h2 align="left" class="section-heading">🕵 About Me</h2>
 </div>
-
 <div id="random-image-container">
  <table align="center" width="100%" height="100%">
   <tr>
@@ -78,7 +72,7 @@
 
 <!-- CLOUD TECHNOLOGIES -->
   <div>
-   <h2 align="left" class="section-heading">Cloud Technologies</h2>
+   <h2 align="left" class="section-heading">☁️ Cloud Technologies</h2>
   </div>
   <p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
   <div>
@@ -90,7 +84,7 @@
   </div>
 <!--
 <div align="center">
- <h2 align="left" class="section-heading"> ☁️ Cloud Technologies </h2>
+ <h2 align="left" class="section-heading">☁️ Cloud Technologies</h2>
 </div>
 <p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
 <div>
@@ -108,68 +102,24 @@
 
 <!-- DEVOPS TOOLS AND SKILLS -->
 <div align="center">
- <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills </h2>
+ <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills</h2>
 </div>
 <p align="justify">Regarding my experience in DevOps, I have practiced extensively with various tools and technologies to integrate, build, deploy, containerize, orchestrate, and monitor various multi-tier software applications. I have developed and managed CI/CD pipelines using the following DevOps tools and skills:</p>
-
-
-<div align="center">
+<div align="left">
   <p>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/github-white.png" alt="github" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins_logo-white.png" alt="jenkins" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo-white.png" alt="prometheus" height="45" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/github-white.png" alt="github" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins_logo-white.png" alt="jenkins" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo-white.png" alt="prometheus" height="45"/>
+    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45"/>
   </p>
 </div>
-
-
-
-<!---
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/github-white.png" alt="github" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins_logo-white.png" alt="jenkins" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/k8s-white.png" alt="kubernetes" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/terraform-hashicorp-logo.png" alt="terraform" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/prometheus-logo-white.png" alt="prometheus" height="45"/>
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45"/>
-  </div>
-</div>
---->
-
 
 <!---
 <div align="center">
@@ -193,10 +143,9 @@
 
 <br>
 
-
 <!--- GITHUB STATS --->
 <div align="center">
- <h2 align="left" class="section-heading">💻 Github Stats </h2>
+ <h2 align="left" class="section-heading">💻 Github Stats</h2>
  <p align="justify">Peek into my GitHub stats to explore my digital journey! My GitHub profile showcases my commitment to continuous learning and my contributions to various projects.</p>
  <table align="center" width="100%" height="100%" >
   <tr>
@@ -213,28 +162,23 @@
  </table>
 </div>
 
-
 <br>
 
-
 <!-- GITHUB CONTRIBUTIONS -->
+<!--
 <div align="center">
  <h2 align="left" class="section-heading">🚀 Github Contributions</h2>
  <p align="justify">Each commit I make contributes to ongoing projects and reflects my commitment to continuous improvement. By diving into my commits, you can gain insights into my thought process, problem-solving abilities, and the steps I take to enhance my projects.</p>
  <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
  <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
-
+-->
 
 <!---
-
-
 <p align="center">
 <a href="https://www.youtube.com/c/prabhatraghav?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/prabhatraghav/app/youtube-stats-badges/subscribers-badge.php"/></a>
 <a href="https://www.youtube.com/c/prabhatraghav"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/prabhatraghav/app/youtube-stats-badges/view-count-badge.php"/></a>
 </p>
-
-
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
@@ -252,7 +196,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
 
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
@@ -265,7 +208,6 @@
   <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </div>
-
 
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
@@ -284,7 +226,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
 </div>
-
 
 prabhatraghav/prabhatraghav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
