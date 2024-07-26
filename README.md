@@ -51,7 +51,7 @@
    </td>
    
    <td>
-    <p align="justify">
+    <h5 align="justify">
      <ul>
       <li>Hi, I’m Prabhat Singh Raghav, a DevOps engineer from Delhi, India. I specialize in devops workflows.</li>
       <li>I’m seeking a role as a DevOps/Cloud Engineer, where I can leverage my extensive experience in automating and optimizing application deployments in the cloud, and my skills in CI/CD pipelines, containerization, container orcestration and infrastructure provisioning.</li>
@@ -63,7 +63,7 @@
       <li>You can reach me via email at - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
       <li>My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
      </ul>
-    </p>
+    </h5>
    </td>
   </tr>
  </table>
