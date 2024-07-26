@@ -54,7 +54,7 @@
     <h4 align="justify">
      <ul>
       <li>Hi, I’m Prabhat Singh Raghav, a DevOps Engineer from Delhi, India, specializes in DevOps workflows and practices.</li>
-      <li>I’m seeking a role as a DevOps/Cloud Engineer, where I can leverage my extensive experience in automating and optimizing application deployments in the cloud, and my skills in CI/CD pipelines, containerization, container orcestration and infrastructure provisioning.</li>
+      <li>I’m seeking a role as a DevOps/Cloud Engineer, where I can leverage my experience in automating and optimizing application deployments in the cloud.</li>
       <li>I’m currently expanding my knowledge in DevSecOps and Cloud-DevOps to stay ahead in the ever-evolving field of cloud computing and security.</li>
       <li>I'm a fast learner with a proven ability to quickly adapt to new technologies and methodologies.</li>
       <li>I'm very hard-working, consistently going above and beyond to ensure project success and client satisfaction.</li>
