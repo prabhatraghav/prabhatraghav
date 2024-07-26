@@ -78,9 +78,9 @@
   <p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
   <div>
    <p>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/aws-logo-white.png" alt="aws" height="40"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/gcp-logo-white.png" alt="gcp" height="50"/>
-    <img src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="35"/>
+    <img hspace="10" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/aws-logo-white.png" alt="aws" height="40"/>
+    <img hspace="10" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/gcp-logo-white.png" alt="gcp" height="50"/>
+    <img hspace="10" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="35"/>
    </p>
   </div>
 <!--
