@@ -78,9 +78,9 @@
   <p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
   <div>
    <p>
-    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/aws-logo-white.png" alt="aws" height="40"/>
-    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/gcp-logo-white.png" alt="gcp" height="50"/>
-    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="35"/>
+    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/aws-logo-white.png" alt="aws" height="35"/>
+    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="32"/>
+    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/gcp-logo-white.png" alt="gcp" height="47"/>
    </p>
   </div>
 <!--
@@ -111,7 +111,7 @@
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/git-logo-orange.png" alt="git" height="30"/>
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/github-white.png" alt="github" height="45"/>
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/jenkins_logo-white.png" alt="jenkins" height="45"/>
-    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="20"/>
+    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/maven-logo-white-on-black.purevec.svg" alt="maven" height="25"/>
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/trivy--logo-white.png" alt="aquatrivy" height="40"/>
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/ansible-logo-white.png" alt="ansible" height="45"/>
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/docker-mark.png" alt="docker" height="45"/>
