@@ -61,7 +61,7 @@
       <li>I'm dedicated to my work and have a strong commitment towards developing and implementing robust, scalable, and efficient solutions.</li>
       <li>I have hands-on experience with a wide range of DevOps tools and cloud platforms.</li>
       <li>You can reach me via email at - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li>
-      <li>My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li>
+      <!-- <li>My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li> -->
      </ul>
     </h4>
    </td>
