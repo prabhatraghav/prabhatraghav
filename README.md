@@ -13,9 +13,9 @@
   <!--- Github Followers  --->
   <a href="https://github.com/prabhatraghav?tab=followers"><img hspace="3" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Followers"/></a>
   <!-- Github Stars  -->
-  <a href="https://github.com/prabhatraghav?tab=repositories&sort=stargazers"><img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=ff00de&style=flat&labelColor=5c5c5c&logo=github&logoSize=auto&cacheSeconds=60&label=Stars"/></a>
+  <a href="https://github.com/prabhatraghav/prabhatraghav/stargazers"><img alt="stars" title="Give me a Star" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=228B22&style=flat&labelColor=5c5c5c&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Stars"/></a>
   <!-- Github Profile Forks  -->
-  <a href="https://github.com/prabhatraghav/prabhatraghav/network/members"><img hspace="3" alt="forks" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/forks/prabhatraghav/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Forks"/></a>
+  <a href="https://github.com/prabhatraghav/prabhatraghav/network/members"><img hspace="3" alt="forks" title="Fork this Profile" src="https://custom-icon-badges.demolab.com/github/forks/prabhatraghav/prabhatraghav?color=1E90FF&labelColor=5c5c5c&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Forks"/></a>
 </div>
 
 <!--- DYNAMIC HEADER --->
