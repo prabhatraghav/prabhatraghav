@@ -1,17 +1,17 @@
 <!-- BADGES SECTION -->
 <div align="center">
   <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
-  <a href="https://github.com/prabhatraghav"><img hspace="3"  alt="views" title="github profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=PROFILE+VIEWS&base=0&color=236ad3&abbreviated=true&style=flat" alt="prabhatraghav"/></a>
+  <a href="https://github.com/prabhatraghav"><img hspace="3"  alt="views" title="github profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=Profile+Views&base=0&color=236ad3&abbreviated=true&style=flat" alt="prabhatraghav"/></a>
   <!--- GitHub Actions Workflow Status  --->
-  <a href="https://github.com/prabhatraghav/prabhatraghav/actions/workflows/update_readme.yml"><img hspace="3" alt="build-status" src="https://img.shields.io/github/actions/workflow/status/prabhatraghav/prabhatraghav/update_readme.yml?branch=main&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60"/></a>
+  <a href="https://github.com/prabhatraghav/prabhatraghav/actions/workflows/update_readme.yml"><img hspace="3" alt="build-status" src="https://img.shields.io/github/actions/workflow/status/prabhatraghav/prabhatraghav/update_readme.yml?branch=main&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Build+Status"/></a>
   <!--- Github Followers  --->
   <a href="https://github.com/prabhatraghav?tab=followers"><img hspace="3" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Followers"/></a>
   <!-- Github Stars  -->
   <!-- <a href="https://github.com/prabhatraghav?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=github&logoSize=auto&cacheSeconds=60&label=Stars"/></a>   -->
   <!-- LinkedIn Profile -->
-  <a href="https://www.linkedin.com/in/prabhatraghav"><img hspace="3" src="https://img.shields.io/badge/linkedin/prabhatraghav-0077B5?style=flat&logo=linkedin&logoColor=black&color=blue" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/prabhatraghav"><img hspace="3" src="https://img.shields.io/badge/linkedin-prabhatraghav-0077B5?style=flat&logo=linkedin&logoColor=black&color=4682B4" alt="LinkedIn"/></a>
   <!-- Email -->
-  <a href="mailto:prabhat_raghav@outlook.com"><img hspace="3" src="https://img.shields.io/badge/prabhat__raghav@outlook.com-0077B5?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="mailto:prabhat_raghav@outlook.com"><img hspace="3" src="https://custom-icon-badges.demolab.com/badge/Email-prabhat__raghav@outlook.com-0077B5?style=flat&logo=outlookmail&logoColor=white&color=4169E1" alt="Email"/></a>
 </div>
 
 
