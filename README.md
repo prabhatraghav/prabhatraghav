@@ -1,7 +1,7 @@
 <!-- BADGES SECTION -->
 <div align="center">
   <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
-  <a href="https://github.com/prabhatraghav"><img hspace="3"  alt="views" title="github profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=Profile+Views&base=0&color=236ad3&abbreviated=true&style=flat" alt="prabhatraghav"/></a>
+  <a href="https://github.com/prabhatraghav"><img hspace="3"  alt="views" title="github profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=Visitors&base=0&color=236ad3&abbreviated=true&style=flat" alt="prabhatraghav"/></a>
   <!--- GitHub Actions Workflow Status  --->
   <a href="https://github.com/prabhatraghav/prabhatraghav/actions/workflows/update_readme.yml"><img hspace="3" alt="build-status" src="https://img.shields.io/github/actions/workflow/status/prabhatraghav/prabhatraghav/update_readme.yml?branch=main&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Build+Status"/></a>
   <!-- LinkedIn Profile -->
