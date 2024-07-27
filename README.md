@@ -1,12 +1,20 @@
 <!-- BADGES SECTION -->
-<p align="center">    
-<!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
-<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=GITHUB+PROFILE+VIEWS&base=0&color=236ad3&abbreviated=true&style=for-the-badge" alt="prabhatraghav"/>
-<!--- Github Stars  --->
-<a href="https://github.com/prabhatraghav?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=star&label=Github+Stars"/></a>
-<!--- Github Followers  --->
-<a href="https://github.com/prabhatraghav?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers"/></a>
-</p>
+<div align="center">
+  <!--- Github Profile Views Counter <https://github.com/antonkomarev/github-profile-views-counter> --->
+  <a href="https://github.com/prabhatraghav">
+    <img hspace="5"  alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=prabhatraghav&label=GITHUB+PROFILE+VIEWS&base=0&color=236ad3&abbreviated=true&style=for-the-badge" alt="prabhatraghav"/>
+  </a>
+  <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/prabhatraghav">
+    <img hspace="5"  src="https://img.shields.io/badge/prabhat raghav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!--- Github Followers  --->
+  <a href="https://github.com/prabhatraghav?tab=followers">
+    <img hspace="5"  alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prabhatraghav?color=ff00de&labelColor=5c5c5c&style=for-the-badge&logo=person-add&label=Github+Followers"/>
+  </a>
+  <!-- Github Stars  -->
+  <!-- <a href="https://github.com/prabhatraghav?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=star&label=Github+Stars"/></a>   -->
+</div>
 
 
 <!--- DYNAMIC HEADER --->
