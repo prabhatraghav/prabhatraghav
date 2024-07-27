@@ -9,9 +9,9 @@
   <!-- LinkedIn Profile -->
   <a href="https://www.linkedin.com/in/prabhatraghav"><img hspace="3" src="https://img.shields.io/badge/@prabhatraghav-0077B5?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <!-- Email -->
-  <a href="prabhat_raghav@outlook.com"><img hspace="3" src="https://img.shields.io/badge/prabhat_raghav@outlook.com-0077B5?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="mailto:prabhat_raghav@outlook.com"><img hspace="3" src="https://img.shields.io/badge/prabhat_raghav@outlook.com-0077B5?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
 </div>
-https://img.shields.io/badge/any_text-you_like-blue
+
 
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
