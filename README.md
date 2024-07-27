@@ -18,7 +18,7 @@
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;And+this+is+my+Github+Profile...;I'm+seeking+a+role...;As+a+DevOps+Engineer...;I'm+a+fast+learner...;I'm+very+hard-working...;I'm+able+to+quickly+adapt+to+new+technologies...;I'm+dedicated+to+my+work...;" alt="Typing SVG"/>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=3000&color=00FF7F&center=true&vCenter=true&width=800&lines=Hello...;I'm+Prabhat+Singh+Raghav...;Welcome+to+my+Github+Profile...;I'm+seeking+a+role...;As+a+DevOps+Engineer...;I'm+very+hard-working...;and+very+passionate+about+my+work...;As+I'm+a+fast+learner...;I+quickly+adapt+new+technologies...;" alt="Typing SVG"/>
   </h1>
 </div>
 
