@@ -9,7 +9,7 @@
   <!-- Github Stars  -->
   <!-- <a href="https://github.com/prabhatraghav?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prabhatraghav?color=55960c&style=for-the-badge&labelColor=5c5c5c&logo=github&logoSize=auto&cacheSeconds=60&label=Stars"/></a>   -->
   <!-- LinkedIn Profile -->
-  <a href="https://www.linkedin.com/in/prabhatraghav"><img hspace="3" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=black&color=blue" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/prabhatraghav"><img hspace="3" src="https://img.shields.io/badge/linkedin/prabhatraghav-0077B5?style=flat&logo=linkedin&logoColor=black&color=blue" alt="LinkedIn"/></a>
   <!-- Email -->
   <a href="mailto:prabhat_raghav@outlook.com"><img hspace="3" src="https://img.shields.io/badge/prabhat__raghav@outlook.com-0077B5?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
 </div>
