@@ -81,7 +81,7 @@
   <div>
    <p>
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/aws-logo-white.png" alt="aws" height="35"/>
-    <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="32"/>
+    <!--<img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/azure-Logo.png" alt="azure" height="32"/>-->
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/gcp-logo-white.png" alt="gcp" height="47"/>
    </p>
   </div>
