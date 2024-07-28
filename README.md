@@ -50,28 +50,25 @@
    <td>
     <!--- Coder Animated Gif --->
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+............Ubuntu+v24.04✅;>+Checkout+GITHUB+repository+....../prabhat/Netflix✅;>+Install+dependencies+......Node✅.Trivy✅.Docker✅;>+SONARQUBE+Scanning+...........Quality+Gate+PASSED✅;>+Build+DOCKER+Image+................netflix:latest✅;>+Push+Image+to+DOCKER+Hub+...docker.io/***/netflix✅;>+Run+TRIVY+Image+scan+...........+>+/ImageScan.txt✅;>+Deploying+Image+to+Docker+container+.........DONE✅;" alt="Typing SVG"/>
-       <!---  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=3000&pause=500&color=F7F7F7&center=false&vCenter=false&multiline=false&multiline=true&repeat=true&random=false&width=80&height=130&lines=Ubuntu+v24✅;" alt="typing"/> --->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;" alt="Typing SVG"/>
     </div>
-      <!--SonarQube+Scanning+...............;Quality+Gate+Success+..............%F0%9F%9B%A0%EF%B8%8FDone;Run+Trivy+file+system+scan+........+Done;Build+Docker+Image+.................;Push+Image+to+Docker+Hub+...................;Run+Trivy+Image+scan+..................;Deploying+Image+to+Docker+container+........;" alt="typing"/> -->
     <div><img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210"></div>
     <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
     <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
     <!--- <img alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
    </td>
-   
    <td rowspan="2">
     <p align="justify">
      <ul>
-       <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India. I specializes in devops workflows and methodologies.</li>
-       <li align="justify">I’m seeking a role as a DevOps Engineer, where I can leverage my self-gained experience in automating and optimizing application deployments in the cloud, and my skills in CI/CD pipelines, containerization, container orcestration and infrastructure provisioning.</li>
-        <li align="justify">I’m currently expanding my knowledge in DevSecOps and Cloud-DevOps to stay ahead in the ever-evolving field of cloud computing and security.</li>
-        <li align="justify">I'm a fast learner with a proven ability to quickly adapt to new technologies.</li>
-        <li align="justify">I'm very hard-working, consistently going above and beyond to ensure project success.</li>
-        <li align="justify">I'm dedicated to my work and have a strong commitment towards developing and implementing robust, scalable, and efficient solutions.</li>
-        <li align="justify">I have hands-on experience with a wide range of DevOps tools and cloud platforms.</li>
-        <!--<li align="justify">You can reach me via email at - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li> -->
-        <!--<li>My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li> -->
+      <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India. I specializes in devops workflows and methodologies.</li>
+      <li align="justify">I’m seeking a role as a DevOps Engineer, where I can leverage my self-gained experience in automating and optimizing application deployments in the cloud, and my skills in CI/CD pipelines, containerization, container orcestration and infrastructure provisioning.</li>
+      <li align="justify">I’m currently expanding my knowledge in DevSecOps and Cloud-DevOps to stay ahead in the ever-evolving field of cloud computing and security.</li>
+      <li align="justify">I'm a fast learner with a proven ability to quickly adapt to new technologies.</li>
+      <li align="justify">I'm very hard-working, consistently going above and beyond to ensure project success.</li>
+      <li align="justify">I'm dedicated to my work and have a strong commitment towards developing and implementing robust, scalable, and efficient solutions.</li>
+      <li align="justify">I have hands-on experience with a wide range of DevOps tools and cloud platforms.</li>
+      <!--<li align="justify">You can reach me via email at - <a href="prabhat_raghav@outlook.com">prabhat_raghav@outlook.com</a></li> -->
+      <!--<li>My LinkedIn profile - <a href="https://www.linkedin.com/in/prabhatraghav/">linkedin.com/in/prabhatraghav</a></li> -->
      </ul>
     </p>
    </td>
