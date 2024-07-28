@@ -47,8 +47,9 @@
 <div id="random-image-container">
  <table align="center" width="100%" height="100%">
   <tr>
-   <td>
+   <td align="center">
     <!--- Coder Animated Gif --->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=15&duration=3000&color=00FF7F&center=true&vCenter=true&width=250&lines=Setting+up+Runner+to+run+the+job+☁️+......;Checkout+Github+repository+.....;Installing+dependencies+......;" alt="typing"/>
     <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210">
     <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
     <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
