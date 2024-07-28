@@ -17,15 +17,12 @@
   <!-- Github Profile Forks  -->
   <a href="https://github.com/prabhatraghav/prabhatraghav/network/members"><img hspace="3" alt="forks" title="Fork this Profile" src="https://custom-icon-badges.demolab.com/github/forks/prabhatraghav/prabhatraghav?color=1E90FF&labelColor=5c5c5c&style=flat&logo=github&logoColor=black&logoSize=auto&cacheSeconds=60&label=Forks"/></a>
 </div>
-
 <!--- DYNAMIC HEADER --->
 <!--- Typing effect SVG <https://readme-typing-svg.herokuapp.com> --->
 <div align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=5000&color=00FF7F&center=true&vCenter=true&width=800&lines=Hello+!++Coders...;...I'm+Prabhat+Raghav;Welcome+to+my+Github+Profile;I'm+seeking+a+role...;...as+a+DevOps+Engineer;I'm+hard-working+and...;...passionate+about+my+work;As+I'm+a+fast+learner...;...I+quickly+adapt+new+technologies;" alt="Typing SVG"/>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=5000&color=00FF7F&center=true&vCenter=true&width=800&height=25&lines=Hello+!++Coders...;...I'm+Prabhat+Raghav;Welcome+to+my+Github+Profile;I'm+seeking+a+role...;...as+a+DevOps+Engineer;I'm+hard-working+and...;...passionate+about+my+work;As+I'm+a+fast+learner...;...I+quickly+adapt+new+technologies;" alt="Typing SVG"/>
   </h1>
 </div>
-
-
 <!-- BANNER -->
 <div>
  <table align="center" width="100%" height="100%">
@@ -37,9 +34,7 @@
   </tr>
  </table>
 </div>
-
 <br>
-
 <!-- ABOUT ME -->
 <div align="center">
  <h2 align="left" class="section-heading">🕵 About Me</h2>
@@ -75,9 +70,7 @@
   </tr>
  </table>
 </div>
-
 <br>
-
 <!-- CLOUD TECHNOLOGIES -->
   <div>
    <h2 align="left" class="section-heading">☁️ Cloud Technologies</h2>
@@ -105,9 +98,7 @@
  </table>
 </div>
 -->
-
 <br>
-
 <!-- DEVOPS TOOLS AND SKILLS -->
 <div align="center">
  <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills</h2>
@@ -128,7 +119,6 @@
     <img hspace="5" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/logos/Grafana-white.png" alt="grafana" height="45"/>
   </p>
 </div>
-
 <!---
 <div align="center">
  <table>
@@ -148,9 +138,7 @@
  </table>
 </div>
 --->
-
 <br>
-
 <!--- GITHUB STATS --->
 <div align="center">
  <h2 align="left" class="section-heading">💻 Github Stats</h2>
@@ -169,9 +157,7 @@
   </tr>
  </table>
 </div>
-
 <br>
-
 <!-- GITHUB CONTRIBUTIONS -->
 <!--
 <div align="center">
