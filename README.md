@@ -44,14 +44,14 @@
 <div align="center">
  <h2 align="left" class="section-heading">🕵 About Me</h2>
 </div>
-<div id="random-image-container">
+<div id="random-image-container" align="center">
  <table align="center" width="100%" height="100%">
   <tr>
    <td>
     <!--- Coder Animated Gif --->
-    <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=F7F7F7&center=false&vCenter=true&multiline=false&random=false&width=250&lines=Preparing+Ubuntu+runner+.....;Checkout+Github+repository+.......;Installing+dependencies+......;"/>
+    <!--<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=4000&pause=3000&color=F7F7F7&center=false&vCenter=true&multiline=false&random=false&width=250&lines=Preparing+Ubuntu+runner+.....;Checkout+Github+repository+.......;Installing+dependencies+......;" alt="typing"/>
       <!--SonarQube+Scanning+...............;Quality+Gate+Success+..............%F0%9F%9B%A0%EF%B8%8FDone;Run+Trivy+file+system+scan+........+Done;Build+Docker+Image+.................;Push+Image+to+Docker+Hub+...................;Run+Trivy+Image+scan+..................;Deploying+Image+to+Docker+container+........;" alt="typing"/>  -->
-    <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=3000&pause=500&color=F7F7F7&center=false&vCenter=true&multiline=false&random=false&width=250&lines=+++++++++++++++++++++++++++;Runner+up:+Ubuntu+v24.04+✅;++++++++++++++++++++++++++++++;Repository+Synced:+prabhatraghav/Netflix_clone+✅;++++++++++++++++++++++++++++++;JDK:v21.0LTS+✅++Node:v18.20+✅++NPM:v10.7+✅++YARN:1.22+✅;"/>
+    <!--<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=3000&pause=500&color=F7F7F7&center=false&vCenter=true&multiline=false&random=false&width=250&lines=+++++++++++++++++++++++++++;Runner+up:+Ubuntu+v24.04+✅;++++++++++++++++++++++++++++++;Repository+Synced:prabhatraghav+✅;++++++++++++++++++++++++++++++;JDK:v21.0LTS+✅++Node:v18.20+✅++NPM:v10.7+✅;" alt="typing"/>
       <!--SonarQube+Scanning+...............;Quality+Gate+Success+..............%F0%9F%9B%A0%EF%B8%8FDone;Run+Trivy+file+system+scan+........+Done;Build+Docker+Image+.................;Push+Image+to+Docker+Hub+...................;Run+Trivy+Image+scan+..................;Deploying+Image+to+Docker+container+........;" alt="typing"/> -->
     <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210">
     <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
@@ -59,7 +59,7 @@
     <!--- <img alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
    </td>
    
-   <td>
+   <td rowspan="2">
     <p align="justify">
      <ul>
        <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India. I specializes in devops workflows and methodologies.</li>
