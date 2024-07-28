@@ -32,7 +32,7 @@
   <tr>
    <td>
      <!--- <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner1-pipeline.gif"> --->
-     <img class="random-banner" alt="banner" src="https://s6.ezgif.com/tmp/ezgif-6-ec92165636.gif">
+     <img class="random-banner" alt="banner" src="https://s1.ezgif.com/tmp/ezgif-1-1c26e1fab5.gif">
      <!--- <img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif"> --->
    </td>
   </tr>
