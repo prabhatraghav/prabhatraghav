@@ -31,7 +31,7 @@
  <table align="center" width="100%" height="100%">
   <tr>
    <td>
-     <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner1-pipeline.gif">
+     <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif">
      <!--- <img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif"> --->
    </td>
   </tr>
@@ -49,7 +49,7 @@
   <tr>
    <td>
     <!--- Coder Animated Gif --->
-    <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif" alt="Coding" width="290" height="219">
+    <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210">
     <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
     <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
     <!--- <img alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
