@@ -47,9 +47,9 @@
 <div id="random-image-container">
  <table align="center" width="100%" height="100%">
   <tr>
-   <td align="center">
+   <td>
     <!--- Coder Animated Gif --->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=15&duration=3000&color=00FF7F&center=true&vCenter=true&width=250&lines=Setting+up+Runner+to+run+the+job+☁️+......;Checkout+Github+repository+.....;Installing+dependencies+......;" alt="typing"/>
+    <marquee behavior="scroll" direction="up"><a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=13&duration=5001&pause=1000&color=F7F7F7&center=false&vCenter=true&multiline=true&random=false&width=250&lines=Preparing+Ubuntu+runner+.....;Checkout+Github+repository+.......;Installing+dependencies+......;SonarQube+Scanning+...........................;Quality+Gate+Success+--------------%F0%9F%9B%A0%EF%B8%8FDone;Run+Trivy+file+system+scan+---------------+Done;Build+Docker+Image+.................;Push+Image+to+Docker+Hub+...................;Run+Trivy+Image+scan+..................;Deploying+Image+to+Docker+container+........;" alt="typing"/></a></marquee>
     <img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif" alt="Coding" width="300" height="210">
     <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
     <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
