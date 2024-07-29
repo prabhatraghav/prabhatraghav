@@ -71,8 +71,8 @@ with open('README.md', 'r') as file:
 
 # Update the image URLs, widths, and heights in the README
 new_readme = re.sub(
-    r'<img class="random-image" src="https://raw\.githubusercontent\.com/prabhatraghav/prabhatraghav/output/.*?\.gif" alt="Coding" width="\d+" height="\d+"',
-    f'<img class="random-image" src="{selected_image1["url"]}" alt="Coding" width="{selected_image1["width"]}" height="{selected_image1["height"]}"',
+    r'<img class="random-image" src="https://raw\.githubusercontent\.com/prabhatraghav/prabhatraghav/output/.*?\.gif" alt="Coder" width="\d+" height="\d+"',
+    f'<img class="random-image" src="{selected_image1["url"]}" alt="Coder" width="{selected_image1["width"]}" height="{selected_image1["height"]}"',
     readme
 )
 
