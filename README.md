@@ -45,9 +45,9 @@
    <td>
     <!--- Coder Animated Gif --->
     <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;" alt="Typing SVG"/>
+      <img class="random-typing-pipeline" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;" alt="typing-pipeline"/>
     </div>
-    <div><img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif" alt="Coding" width="290" height="219"></div>
+    <div><img class="random-image" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif" alt="Coder" width="290" height="219"></div>
     <!--- <img alt="Coding" width="300" height="210" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk_worker.gif"/> --->
     <!--- <img alt="Coding" width="290" height="219" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/coding-guy.gif"/> --->
     <!--- <img alt="Coding" width="350" height="197" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/profilegif.gif"/> --->
