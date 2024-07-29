@@ -55,7 +55,7 @@
    <td rowspan="2">
     <p align="justify">
      <ul>
-      <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India. I specializes in devops workflows and methodologies.</li>
+      <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India.</li>
       <li align="justify">I’m seeking a role as a DevOps Engineer, where I can leverage my self-gained experience in automating and optimizing application deployments in the cloud, and my skills in CI/CD pipelines, containerization, container orcestration and infrastructure provisioning.</li>
       <li align="justify">I’m currently expanding my knowledge in DevSecOps and Cloud-DevOps to stay ahead in the ever-evolving field of cloud computing and security.</li>
       <li align="justify">I'm a fast learner with a proven ability to quickly adapt to new technologies.</li>
