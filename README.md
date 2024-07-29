@@ -25,14 +25,14 @@
 </div>
 <!-- BANNER -->
 <div>
- <table align="center" width="100%" height="100%">
+ <!--<table align="center" width="100%" height="100%">
   <tr>
-   <td>
+   <td> -->
      <img class="random-banner" alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner-header-0.svg">
      <!--- <img alt="banner" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif"> --->
-   </td>
+   <!--</td>
   </tr>
- </table>
+ </table>-->
 </div>
 <br>
 <!-- ABOUT ME -->
