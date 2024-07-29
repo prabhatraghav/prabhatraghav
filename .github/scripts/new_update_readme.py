@@ -25,8 +25,19 @@ LAST_IMAGES_FILE = '.last_images.json'
 
 def get_last_images():
     if os.path.exists(LAST_IMAGES_FILE):
-        with open(LAST_IMAGES_FILE, 'r') as f:
-            return json.load(f)
+        try:
+            with open(LAST_IMAGES_FILE, 'r') as f:
+                data = json.load(f)
+                # Ensure data format
+                if isinstance(data, dict):
+                    for key, value in data.items():
+                        if not isinstance(value, list):
+                            data[key] = [value]
+                    return data
+                else:
+                    return {}
+        except json.JSONDecodeError:
+            return {}
     return {}
 
 def save_last_images(last_images):
@@ -35,8 +46,6 @@ def save_last_images(last_images):
 
 def select_new_image(image_set, set_name, last_images):
     last_image_list = last_images.get(set_name, [])
-    if isinstance(last_image_list, str):
-        last_image_list = [last_image_list]
     while True:
         selected_image = random.choice(image_set)
         if selected_image['url'] not in last_image_list:
