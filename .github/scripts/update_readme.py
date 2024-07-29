@@ -87,19 +87,19 @@ new_readme = re.sub(
 )
 
 new_readme = re.sub(
-    r'<img class="random-banner" alt="banner" src="https://raw\.githubusercontent\.com/prabhatraghav/prabhatraghav/output/.*?\.gif"',
+    r'<img class="random-banner" alt="banner" src="https://raw\.githubusercontent\.com/prabhatraghav/prabhatraghav/output/.*?\.(?:gif|svg)"',
     f'<img class="random-banner" alt="banner" src="{selected_image2["url"]}"',
-    new_readme_1
+    new_readme
 )
 
 new_readme = re.sub(
-    r'<img class="random-typing-pipeline" alt="typing-pipeline" src="https://readme-typing-svg\.herokuapp\.com?*"',
+    r'<img class="random-typing-pipeline" alt="typing-pipeline" src="https://readme-typing-svg\.herokuapp\.com?.*?"',
     f'<img class="random-typing-pipeline" alt="typing-pipeline" src="{selected_image3["url"]}"',
-    new_readme_2
+    new_readme
 )
 
 # Write the updated README
 with open('README.md', 'w') as file:
-    file.write(new_readme_2)
+    file.write(new_readme)
 
 print(f"README updated with images: {selected_image1['url']} and {selected_image2['url']}")
