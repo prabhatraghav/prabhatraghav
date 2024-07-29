@@ -34,6 +34,15 @@ images_set2 = [
     }
 ]
 
+images_set3 = [
+    {
+        "url": "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;",
+    },
+    {
+        "url": "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;",
+    }
+]
+
 LAST_IMAGES_FILE = '.last_images.json'
 
 def get_last_images():
@@ -61,6 +70,7 @@ last_images = get_last_images()
 # Select new images for both sets
 selected_image1 = select_new_image(images_set1, 'set1', last_images)
 selected_image2 = select_new_image(images_set2, 'set2', last_images)
+selected_image3 = select_new_image(images_set3, 'set3', last_images)
 
 # Save the newly selected images
 save_last_images(last_images)
@@ -73,17 +83,23 @@ with open('README.md', 'r') as file:
 new_readme = re.sub(
     r'<img class="random-image" src="https://raw\.githubusercontent\.com/prabhatraghav/prabhatraghav/output/.*?\.gif" alt="Coder" width="\d+" height="\d+"',
     f'<img class="random-image" src="{selected_image1["url"]}" alt="Coder" width="{selected_image1["width"]}" height="{selected_image1["height"]}"',
-    readme
+    new_readme_0
 )
 
 new_readme = re.sub(
     r'<img class="random-banner" alt="banner" src="https://raw\.githubusercontent\.com/prabhatraghav/prabhatraghav/output/.*?\.gif"',
     f'<img class="random-banner" alt="banner" src="{selected_image2["url"]}"',
-    new_readme
+    new_readme_1
+)
+
+new_readme = re.sub(
+    r'<img class="random-typing-pipeline" alt="typing-pipeline" src="https://readme-typing-svg\.herokuapp\.com?*"',
+    f'<img class="random-typing-pipeline" alt="typing-pipeline" src="{selected_image3["url"]}"',
+    new_readme_2
 )
 
 # Write the updated README
 with open('README.md', 'w') as file:
-    file.write(new_readme)
+    file.write(new_readme_2)
 
 print(f"README updated with images: {selected_image1['url']} and {selected_image2['url']}")
