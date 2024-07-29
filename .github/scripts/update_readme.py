@@ -35,6 +35,8 @@ def save_last_images(last_images):
 
 def select_new_image(image_set, set_name, last_images):
     last_image_list = last_images.get(set_name, [])
+    if isinstance(last_image_list, str):
+        last_image_list = [last_image_list]
     while True:
         selected_image = random.choice(image_set)
         if selected_image['url'] not in last_image_list:
