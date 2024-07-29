@@ -28,6 +28,9 @@ images_set2 = [
     },
     {
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner2-pipeline.gif",
+    },
+    {
+        "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/banner-header-0.svg",
     }
 ]
 
