@@ -1,5 +1,5 @@
 
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 100 854 300">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="175" viewBox="0 100 854 175">
                 <style>
                         .text {
 						font-size: 60px;
@@ -61,8 +61,8 @@
     </g>
                 
      
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="53%" class="text" style="fill:#a18fa7;" stroke="#none" stroke-width="1" >Welcome</text>
-    <text text-anchor="middle" alignment-baseline="middle" x="55%" y="63%" class="text2" style="fill:#a09fa0;" stroke="#none" stroke-width="1" >to my Github Profile</text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="93%" class="text" style="fill:#a18fa7;" stroke="#none" stroke-width="1" >Welcome</text>
+    <text text-anchor="middle" alignment-baseline="middle" x="55%" y="109%" class="text2" style="fill:#a09fa0;" stroke="#none" stroke-width="1" >to my Github Profile</text>
                  
             </svg>
         
