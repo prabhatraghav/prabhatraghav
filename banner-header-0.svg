@@ -1,5 +1,5 @@
 
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="1070" height="240" viewBox="0 40 1070 240">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="1070" height="240" viewBox="0 38 1070 240">
                 <style>
                         .text {
 						font-size: 60px;
@@ -29,7 +29,7 @@
                      </style>
                     <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="20%" stop-color="#8aed7f"/><stop offset="80%" stop-color="#64b3f4"/>
+                <stop offset="25%" stop-color="#8aed7f"/><stop offset="80%" stop-color="#64b3f4"/>
               </linearGradient>
             </defs>
          
@@ -43,7 +43,7 @@
             calcmod="spline"
             keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
             begin="0s"
-            values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z">
+            values="M0 0L 0 220Q 213.5 260 427 230T 1070 255L 1070 0 Z;M0 0L 0 245Q 213.5 260 427 240T 1070 230L 1070 0 Z;M0 0L 0 265Q 213.5 235 427 265T 1070 230L 1070 0 Z;M0 0L 0 220Q 213.5 260 427 230T 1070 255L 1070 0 Z">
         </animate>
       </path>
       <path d="" fill="url(#linear)" opacity="0.4" >
@@ -55,7 +55,7 @@
           calcmod="spline"
           keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
           begin="-10s"
-          values="M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z;M0 0L 0 250Q 213.5 220 427 220T 854 240L 854 0 Z;M0 0L 0 245Q 213.5 225 427 250T 854 265L 854 0 Z;M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z">
+          values="M0 0L 0 235Q 213.5 280 427 250T 1070 260L 1070 0 Z;M0 0L 0 250Q 213.5 220 427 220T 1070 240L 1070 0 Z;M0 0L 0 245Q 213.5 225 427 250T 1070 265L 1070 0 Z;M0 0L 0 235Q 213.5 280 427 250T 1070 260L 1070 0 Z">
         </animate>
       </path>
     </g>
