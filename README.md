@@ -42,7 +42,7 @@
 <div id="random-image-container" align="center">
  <table align="center" width="100%" height="100%">
   <tr>
-   <td>
+   <td align="bottom">
     <!--- Coder Animated Gif --->
     <div align="center">
       <img class="random-typing-pipeline" alt="typing-pipeline" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=130&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;"/>
