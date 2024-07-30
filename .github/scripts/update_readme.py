@@ -62,12 +62,20 @@ def save_last_images(last_images):
         json.dump(last_images, f)
 
 def select_new_image(image_set, set_name, last_images):
-    last_image = last_images.get(set_name)
-    available_images = [img for img in image_set if img['url'] != last_image]
+    last_two = last_images.get(set_name, [])
+    available_images = [img for img in image_set if img['url'] not in last_two]
+    
     if not available_images:
         available_images = image_set
+    
     selected_image = random.choice(available_images)
-    last_images[set_name] = selected_image['url']
+    
+    # Update last_two
+    last_two.append(selected_image['url'])
+    if len(last_two) > 2:
+        last_two = last_two[-2:]
+    
+    last_images[set_name] = last_two
     return selected_image
 
 # Get the last selected images
