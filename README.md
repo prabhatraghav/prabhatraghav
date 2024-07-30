@@ -37,7 +37,7 @@
 <br>
 <!-- ABOUT ME -->
 <div align="center">
- <h2 align="left" class="section-heading">📋 PROFILE</h2>
+ <h1 align="left" class="section-heading">📋 PROFILE</h1>
 </div>
 <div id="random-image-container" align="center">
  <table align="center" width="100%" height="100%">
