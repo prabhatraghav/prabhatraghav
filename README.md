@@ -54,7 +54,7 @@
    </td>
    <td rowspan="2">
      <div align="center">
- <h2 align="left" class="section-heading">🕵 About Me</h2>
+ <h2 align="left" class="section-heading"><img class="random-about" alt="about-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/account-0.gif"> About Me</h2>
 </div>
     <p align="justify">
      <ul>
@@ -104,7 +104,7 @@
 <br>
 <!-- DEVOPS TOOLS AND SKILLS -->
 <div align="center">
- <h2 align="left" class="section-heading">🛠️ DevOps Tools and Skills</h2>
+ <h2 align="left" class="section-heading"><img class="random-tools" alt="tools-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/administrative-tools-0.gif"> DevOps Tools and Skills</h2>
 </div>
 <p align="justify">Regarding my experience in DevOps, I have practiced extensively with various tools and technologies to integrate, build, deploy, containerize, orchestrate, and monitor various multi-tier software applications. I have developed and managed CI/CD pipelines using the following DevOps tools and skills:</p>
 <div align="left">
@@ -144,7 +144,7 @@
 <br>
 <!--- GITHUB STATS --->
 <div align="center">
- <h2 align="left" class="section-heading">💻 Github Stats</h2>
+ <h2 align="left" class="section-heading"><img class="random-stats" alt="stats-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/chart-0.gif"> Github Stats</h2>
  <p align="justify">Peek into my GitHub stats to explore my digital journey! My GitHub profile showcases my commitment to continuous learning and my contributions to various projects.</p>
  <table align="center" width="100%" height="100%" >
   <tr>
