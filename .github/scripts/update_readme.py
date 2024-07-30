@@ -22,8 +22,8 @@ images_set1 = [
     },
     {
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/laptop-coder.gif",
-        "width": "290",
-        "height": "220"
+        "width": "300",
+        "height": "228"
     },
     {
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk-guy.gif",
