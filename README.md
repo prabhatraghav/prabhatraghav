@@ -76,7 +76,7 @@
 <br>
 <!-- CLOUD TECHNOLOGIES -->
   <div>
-   <h2 align="left" class="section-heading">☁️ Cloud Technologies</h2>
+   <h2 align="left" class="section-heading"><img class="random-icon" alt="cloud-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/cloud.gif"> Cloud Technologies</h2>
   </div>
   <p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
   <div>
