@@ -29,6 +29,11 @@ images_set1 = [
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/desk-guy.gif",
         "width": "300",
         "height": "228"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/dog-0.gif",
+        "width": "300",
+        "height": "228"
     }
 ]
 
