@@ -37,7 +37,7 @@
 <br>
 <!-- ABOUT ME -->
 <div align="center">
- <h1 align="left" class="section-heading">📋 PROFILE</h1>
+ <h1 align="left" class="section-heading"><img class="random-profile" alt="profile-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/web-design-0.gif"> PROFILE</h1>
 </div>
 <div id="random-image-container" align="center">
  <table align="center" width="100%" height="100%">
@@ -76,7 +76,7 @@
 <br>
 <!-- CLOUD TECHNOLOGIES -->
   <div>
-   <h2 align="left" class="section-heading"><img class="random-icon" alt="cloud-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/cloud.gif"> Cloud Technologies</h2>
+   <h2 align="left" class="section-heading"><img class="random-cloud" alt="cloud-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/cloud.gif"> Cloud Technologies</h2>
   </div>
   <p align="justify">In the dynamic world of cloud computing, I have practiced extensively with leading cloud platforms to architect and design cloud infrastructure solutions. Here is a glance at the cloud technologies I have most frequently utilized:</p>
   <div>
