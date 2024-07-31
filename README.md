@@ -34,7 +34,7 @@
   </tr>
  </table>-->
 </div>
-<br>
+
 <!-- ABOUT ME -->
 <div align="center">
  <h1 align="left" class="section-heading"><img class="random-profile" alt="profile-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/web-design-0.gif"> PROFILE</h1>
