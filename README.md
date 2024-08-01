@@ -59,7 +59,7 @@
     <p align="justify">
      <ul>
       <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India.</li>
-      <li align="justify">I'm a fast learner with a ability to quickly adapt to new technologies.</li>
+      <li align="justify">I'm a fast learner with an ability to quickly adapt to new technologies.</li>
       <li align="justify">I'm very hard-working, consistently going above and beyond to ensure project success.</li>
       <li align="justify">I'm dedicated to my work and have a strong commitment towards developing and implementing robust, scalable, and efficient solutions.</li>
       <li align="justify">I have hands-on experience with a wide range of DevOps tools and cloud platforms and currently, I'm expanding my knowledge in DevSecOps and Cloud-DevOps to stay ahead in the ever-evolving field of cloud computing and security.</li>
