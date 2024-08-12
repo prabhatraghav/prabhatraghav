@@ -134,7 +134,7 @@ new_readme = re.sub(
 )
 
 new_readme = re.sub(
-    r'<img class="random-typing-pipeline" width="300" height="190" alt="typing-pipeline" src="https://readme-typing-svg\.herokuapp\.com\?.*?"',
+    r'<img class="random-typing-pipeline" width="300" height="190" alt="typing-pipeline" src="https://r.*?"',
     f'<img class="random-typing-pipeline" width="300" height="190" alt="typing-pipeline" src="{selected_image3["url"]}"',
     new_readme
 )
