@@ -44,9 +44,9 @@
   <tr>
    <td>
      <div align="center">
- <h2 align="left" class="section-heading"><img class="random-about" alt="about-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/account-0.gif"> About Me</h2>
-</div>
-    <p align="justify">
+       <h2 align="left" class="section-heading"><img class="random-about" alt="about-gif" src="https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/account-0.gif"> About Me</h2>
+     </div>
+     <p align="justify">
      <ul>
       <li align="justify">Hi, I’m Prabhat Singh Raghav, a computer application graduate from Delhi, India.</li>
       <li align="justify">I'm a fast learner with an ability to quickly adapt to new technologies.</li>
