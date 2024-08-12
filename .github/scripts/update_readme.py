@@ -66,7 +66,7 @@ images_set3 = [
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/terminal-01.gif",
     },
     {
-        "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/terminal-2.gif",
+        "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/terminal-02.gif",
     },
     {
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/terminal-3.gif",
