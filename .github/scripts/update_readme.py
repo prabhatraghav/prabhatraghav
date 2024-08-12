@@ -57,7 +57,7 @@ images_set2 = [
 
 images_set3 = [
     {
-        "url": "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=190&lines=>+Preparing+UBUNTU+runner+...........UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository+...../prabhat/Netflix.✅;>+Install+dependencies+.....NODE✅.TRIVY✅.DOCKER.✅;>+SONARQUBE+Scanning+..........Quality-Gate...PASS.✅;>+Build+DOCKER+Image+...............netflix:latest.✅;>+Push+to+DOCKER+Hub+.........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan+............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container+....DEPLOYED.✅;",
+        "url": "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&duration=4000&pause=2000&color=D0D0D0&background=A4A4A410&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=190&lines=>+Preparing+UBUNTU+runner............UBUNTU.v24.04.✅;>+Checkout+GITHUB+repository....../prabhat/Netflix.✅;>+Installing+dependencies...........Docker.v23.0.3.✅;..........AquaTrivy.v0.54.1✅.......Node.v13.14.0.✅;.........Ansible.v2.17.2✅.......Terraform.v1.9.4.✅;>+SONARQUBE+Scanning...........Quality-Gate...PASS.✅;>+Run+TRIVY+FS+scan..................>/FS-Scan.txt.✅;>+Build+and+Tag+DOCKER+Image........netflix:latest.✅;>+Push+to+DOCKER+Hub..........docker.io/**/netflix.✅;>+Run+TRIVY+Image+scan.............>/ImageScan.txt.✅;>+Deploying+Image+to+DOCKER+container.....DEPLOYED.✅;>+Post+Job+CleanUp....................Job+Complete.✅;",
     },
     {
         "url": "https://raw.githubusercontent.com/prabhatraghav/prabhatraghav/output/terminal-00.gif",
