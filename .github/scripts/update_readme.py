@@ -64,7 +64,7 @@ images_set3 = [
     }
 ]
 
-LAST_IMAGES_FILE = '.last_images.json'
+LAST_IMAGES_FILE = './.github/scripts/.last_images.json'
 
 def get_last_images():
     try:
